@@ -14,6 +14,7 @@ The Suprnova application framework consists of two main components:
 
 2) `Suprnova GUI` - The Suprnova GUI interface for UWP, which enables easy management and execution of `supr` tasks. This application provides a user-friendly, highly-integrated Suprnova experience, and is strongly recommended to all users of Windows 10.
 
+## Getting Started
 
 ### System Requirements
 
