@@ -22,7 +22,7 @@ Suprnova GUI requires an up-to-date Windows 10 computer, running a modern i3, i5
 
 The Suprnova UWP package contains both the GUI and CLI components of Suprnova, making it the best way to get started.
 
-[Click here](https://example.com) to download and install Suprnova for UWP RS5.
+Our anticipated first release for UWP is Feb, 2019.
 
 The `supr` CLI can be used to perform all necessary tasks, however, without the GUI application, the user will lack Intel Media SDK acceleration, so its use is strongly encouraged. An installation guide for the `supr` CLI application is forthcoming.
 
