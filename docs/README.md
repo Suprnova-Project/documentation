@@ -6,11 +6,6 @@ Suprnova is a revolutionary new P2P (peer-to-peer) video encoding and delivery t
 
 This application is built on top of Littlstar's Conflict-Free File System (CFS). It maintains a live, stateful, and sparse file system to which multiple peers can connect and work on.
 
-### Security
-
-Thanks to its underlying libraries, Suprnova is a **double end-to-end encrypted** application, as it not only performs E2E encryption on the connection proctored between host and client - it also maintains a separate form of encryption to establish CFS replication streams beteen connected peers. This means that your top-secret, potentially expensive video assets are better-protected by Suprnova than by any other competing framework. Not even IBM's Aspera can come close to matching the
-security standards we employ with Suprnova.
-
 ### Architecture
 
 The Suprnova application framework consists of two main components:
@@ -18,6 +13,11 @@ The Suprnova application framework consists of two main components:
 1) `supr` - The Suprnova command line application, which handles the background tasks essential to managing and working in Suprnova Transcoding Pools.
 
 2) `Suprnova GUI` - The Suprnova GUI interface for UWP, which enables easy management and execution of `supr` tasks. This application provides a user-friendly, highly-integrated Suprnova experience, and is strongly recommended to all users of Windows 10.
+
+### Security
+
+Thanks to its underlying libraries, Suprnova is a **double end-to-end encrypted** application, as it not only performs E2E encryption on the connection proctored between host and client - it also maintains a separate form of encryption to establish CFS replication streams beteen connected peers. This means that your top-secret, potentially expensive video assets are better-protected by Suprnova than by any other competing framework. Not even IBM's Aspera can come close to matching the
+security standards we employ with Suprnova.
 
 ## Getting Started
 
