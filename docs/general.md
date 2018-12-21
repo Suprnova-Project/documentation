@@ -26,7 +26,7 @@ The `supr` CLI can be used to perform all necessary tasks, however, without the 
 
 Suprnova provides two user workflows:
 
-1) **Pool Host** - Setup a new Suprnova Transcoding Pool on the host system, enabling other users to connect to the Pool and assist in transcoding your video content.
+1) [**Pool Host**](/gui?id=host-view) - Setup a new Suprnova Transcoding Pool on the host system, enabling other users to connect to the Pool and assist in transcoding your video content.
 
 2) **Pool Participant** - Join another individual's Suprnova Transcoding Pool, and assist the **Pool Host** in transcoding the source video content.
 
