@@ -2,4 +2,4 @@
 
 * [Home](/)
 * [General](general.md)
-* [Window Views](windows.md)
+* [Suprnova GUI](gui.md)
