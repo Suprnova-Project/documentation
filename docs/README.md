@@ -6,6 +6,11 @@ Suprnova is a revolutionary new P2P (peer-to-peer) video encoding and delivery t
 
 ## Features
 
+### Peer-to-Peer Without Fear
+
+We've come a long way since the days of Napster! Suprnova is an entirely new approach to video transcoding, promoting methodologies for distribution and peer connectivity that were first introduced by BitTorrent and other peer-to-peer technologies. Rather than contributing to the piracy problems that plague the media industry, Suprnova's use of P2P provides a brand new, legitimate and legal framework for participating in the encoding and distribution of your media. And unlike BitTorrent,
+Suprnova users have a very strong incentive to share their resources with the rest of the pool, since this is what guarantees receipt of the content at the end of the process.
+
 ### Intel Hardware Acceleration
 
 ![intel](images/mediasdk.png "Intel Media SDK")
@@ -24,6 +29,11 @@ Suprnova's uses as a video encoder tool are numerous and broad, introducing enti
 ### Fans-Only Content
 
 If you have a paid/sponsored membership portal for your content, Suprnova is a great way to serve videos to your fans while keeping things "members only."
+
+### Subscription Discounts
+
+Suprnova joins together disparate customers and participants so that they can work together to accomplish difficult compute-heavy tasks as a team. In essence, this means very time-consuming, resource-heavy transcoding tasks can be offloaded from your own company's compute infrastructure, dramatically reducing cost of doing business in the digital media space. Passing these savings on to your customers could be an excellent way to reduce customer churn, promote more engaged viewing, and foster
+a stronger, more resilient community around your content.
 
 ### Dailies
 

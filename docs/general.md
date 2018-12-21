@@ -4,9 +4,9 @@
 
 The Suprnova application framework consists of two main components:
 
-1) `supr` - The Suprnova command line application, which handles the background tasks essential to managing and working in Suprnova Transcoding Pools.
+1) [Suprnova CLI](supr.md) - The `supr` command line application, which handles the background tasks essential to managing and working in Suprnova Transcoding Pools.
 
-2) [`Suprnova GUI`](gui.md) - The Suprnova GUI interface for UWP, which enables easy management and execution of `supr` tasks. This application provides a user-friendly, highly-integrated Suprnova experience, and is strongly recommended to all users of Windows 10.
+2) [Suprnova GUI](gui.md) - The Suprnova GUI interface for UWP, which enables easy management and execution of `supr` tasks. This application provides a user-friendly, highly-integrated Suprnova experience, and is strongly recommended to all users of Windows 10.
 
 ## Getting Started
 
