@@ -2,11 +2,25 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>docs-supr</title>
+  <title>Suprnova</title>
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
   <meta name="description" content="Suprnova Documentation">
   <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
-  <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/vue.css">
+  <!-- Theme -->
+  <link rel="stylesheet" href="https://unpkg.com/docsify-themeable/dist/css/theme-simple.css">
+    <!-- Custom theme styles -->
+  <style>
+    @font-face {
+        font-family:"ProximaNovaRegular";
+        src: url("/assets/ProximaNova-Regular.otf") /* TTF file for CSS3 browsers */
+    }
+    :root {
+      --base-font-size: 14px;
+      --theme-color   : darkblue;
+      --base-font-family     : "ProximaNovaRegular"; /*-apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";*/
+      --base-color           : var(--mono-base);
+    }
+  </style>
 </head>
 <body>
   <div id="app"></div>
@@ -15,7 +29,7 @@
       name: 'Suprnova',
       repo: 'https://github.com/ara-suprnova/suprnova-gui',
       loadSidebar: true,
-      subMaxLevel: 3,
+      subMaxLevel: 2,
       logo: '/suprnova.svg'
     }
   </script>
