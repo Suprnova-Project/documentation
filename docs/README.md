@@ -8,7 +8,7 @@ Suprnova is a revolutionary new P2P (peer-to-peer) video encoding and delivery t
 
 ### Peer-to-Peer Without Fear
 
-We've come a long way since the days of Napster! Suprnova is an entirely new approach to video transcoding, promoting methodologies for distribution and peer connectivity that were first introduced by BitTorrent and other peer-to-peer technologies. Rather than contributing to the piracy problems that plague the media industry, Suprnova's use of P2P provides a brand new, legitimate and legal framework for participating in the encoding and distribution of your media. And unlike BitTorrent,
+We've come a long way since the days of Napster. Suprnova is an entirely new approach to video transcoding, promoting methodologies for distribution and peer connectivity that were first introduced by BitTorrent and other peer-to-peer technologies. Rather than contributing to the piracy problems that plague the media industry, Suprnova's use of P2P provides a brand new, legitimate and legal framework for participating in the encoding and distribution of your media. And unlike BitTorrent,
 Suprnova users have a very strong incentive to share their resources with the rest of the pool, since this is what guarantees receipt of the content at the end of the process.
 
 ### Intel Hardware Acceleration
@@ -40,6 +40,6 @@ a stronger, more resilient community around your content.
 Dailies need to be viewed by many different people - some of whom are not expected to have a PC powerful enough to decode raw video camera captures. Using Suprnova, the video production crew can setup a Pool for the dailies shot each day, using all participants' systems to encode the video down to playable H.264. Thanks to Suprnova's distributed encoding workflow, no one pool participant's system will suffer slowdowns, so production can rest easy, knowing that hosting and participating
 in this pool will result in no downtime or slowdowns in their other work.
 
-### VOD Delivery of Live-Streamed Video
+### Time-Delayed VOD Delivery of Broadcasts
 
-As your viewers enjoy your live stream, Suprnova can be used to simultaneously transcode segments of this stream, so that fans who missed the live event can immediately receive a high quality VOD encode of the stream. Now your message reaches your fans with much greater certainty!
+As your viewers enjoy your broadcast or live stream, Suprnova can be used to simultaneously transcode segments of this content in real time, so that fans who missed the live event can immediately receive a high quality VOD encode of the stream. Now your message reaches your fans with much greater certainty and at a much higher quality to boot!
