@@ -1,5 +1,7 @@
 # Suprnova GUI
 
+The Suprnova GUI application is a Microsoft Windows 10 UWP application, which provides an easy-to-use graphical workflow for setting up and hosting pools, as well as peering with other Suprnova pools as a worker.
+
 ## Application UIs
 
 Suprnova GUI has three main window views. They are detailed below:
