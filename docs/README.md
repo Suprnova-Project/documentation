@@ -28,7 +28,7 @@ Suprnova's uses as a video encoder tool are numerous and broad, introducing enti
 
 ### Fans-Only Content
 
-If you have a paid/sponsored membership portal for your content, Suprnova is a great way to serve videos to your fans while keeping things "members only."
+If you have a paid/sponsored membership portal for your content, Suprnova is a great way to serve videos to your fans while keeping things "members only." The invite-only participation system means you'll be able to gate off any freeloaders, and the breakneck speeds at which Suprnova encodes video ensures that nobody will get their eyes on the content before your pool of trusted participants!
 
 ### Subscription Discounts
 
