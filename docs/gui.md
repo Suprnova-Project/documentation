@@ -4,13 +4,15 @@ The Suprnova GUI application is a Microsoft Windows 10 UWP application, which pr
 
 ## Application Interfaces
 
-Suprnova GUI has three main window views. They are detailed below:
+Suprnova GUI has two main interface windows and a toast notifications system. They are detailed below:
 
-### Host Window
+### Main Application Window
 
-This is the main window of Suprnova GUI, and where users will do most of their interacting with the application.
+This is the main interface of Suprnova GUI, and where users will do most of their interacting with the application.
 
-![host](views/host.png "Host View")
+#### Pool Configuration Tab
+
+![host](views/host.png "Pool Host View")
 
 Above is a screenshot of the Pool configuration page, which provides users the capability to launch new Suprnova pools, and prepare source files for Suprnova Pool processing.
 
@@ -20,7 +22,7 @@ The proxy window is launched so that users can track progress of pool activities
 
 ![proxy](views/proxy.png "Proxy View")
 
-### Toasts
+### Toast Notifications
 
 When important updates occur, Suprnova presents a notification on your computer's toast bar.
 
