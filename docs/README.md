@@ -24,7 +24,7 @@ the cost!
 
 Suprnova utilizes the same handshake protocol as the secure chat app, Signal, and implements stream encryption via libsodium's `secretstream`. It further encrypts each socket connection via the `blake2b` encryption algorithm, providing users with peace of mind that their valuable video assets will remain in the proper hands.
 
-### supr:// Protocol Support for UWP
+### supr:// Protocol for UWP
 
 Suprnova GUI generates a simple web address for your Suprnova Pool, which Windows 10 users can click to immediately join and begin working on your content! No more sharing of secret keys and passwords over insecure connections like email. Simply click the `supr://` URL and start participating!
 
