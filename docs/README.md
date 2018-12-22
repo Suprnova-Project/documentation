@@ -20,7 +20,15 @@ Suprnova users have a very strong incentive to share their resources with the re
 In partnership with Intel, we are proud to offer Suprnova users a highly optimized encoding workflow, provided by Intel's Media SDK toolkit. It takes advantage of hardware instructions on your Intel i3, i5, i7, or i9 processor, which have been designed precisely for the purpose of accelerating transcodes. As a result, Suprnova pools encode video much more efficiently than other modern encoding workflows, and offer performance competitive with modern GPU pipelines - but at a fraction of
 the cost!
 
+### Littlstar RSS Feeds
+
+![rss](images/rss.png "RSS Feed")
+
+When you are a member of a Suprnova Pool, you have access to the Pool's RSS feed, so that you can track and serve up content you helped encode right from a local webserver. Go to [my.littlstar.com](https://my.littlstar.com) to embed this RSS feed into your Littlstar app on Playstation 4. That way, your encoded content will always be waiting for you, accessible right from your couch and without *any* loading, buffering, or slow-downs!
+
 ### Double End-to-End Encryption
+
+![e2e](images/e2e.png "End to End Squared")
 
 Suprnova utilizes the same handshake protocol as the secure chat app, Signal, and implements stream encryption via libsodium's `secretstream`. It further encrypts each socket connection via the `blake2b` encryption algorithm, providing users with peace of mind that their valuable video assets will remain in the proper hands.
 
