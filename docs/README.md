@@ -6,19 +6,19 @@ Suprnova is a revolutionary new P2P (peer-to-peer) video encoding and delivery t
 
 ## Features
 
-### Peer-to-Peer Without Fear
-
-![ara](images/ara.png "Ara")
-
-We've come a long way since the days of Napster. Suprnova is an entirely new approach to video transcoding, promoting methodologies for distribution and peer connectivity that were first introduced by BitTorrent and other peer-to-peer technologies. Rather than contributing to the piracy problems that plague the media industry, Suprnova's use of P2P provides a brand new, legitimate and legal framework for participating in the encoding and distribution of your media. And unlike BitTorrent,
-Suprnova users have a very strong incentive to share their resources with the rest of the pool, since this is what guarantees receipt of the content at the end of the process.
-
 ### Intel Hardware Acceleration
 
 ![intel](images/mediasdk.png "Intel Media SDK")
 
 In partnership with Intel, we are proud to offer Suprnova users a highly optimized encoding workflow, provided by Intel's Media SDK toolkit. It takes advantage of hardware instructions on your Intel i3, i5, i7, or i9 processor, which have been designed precisely for the purpose of accelerating transcodes. As a result, Suprnova pools encode video much more efficiently than other modern encoding workflows, and offer performance competitive with modern GPU pipelines - but at a fraction of
 the cost!
+
+### Peer-to-Peer Without Fear
+
+![ara](images/ara.png "Ara")
+
+We've come a long way since the days of Napster. Suprnova is an entirely new approach to video transcoding, promoting methodologies for distribution and peer connectivity that were first introduced by BitTorrent and other peer-to-peer technologies. Rather than contributing to the piracy problems that plague the media industry, Suprnova's use of P2P provides a brand new, legitimate and legal framework for participating in the encoding and distribution of your media. And unlike BitTorrent,
+Suprnova users have a very strong incentive to share their resources with the rest of the pool, since this is what guarantees receipt of the content at the end of the process.
 
 ### Littlstar RSS Feeds
 
