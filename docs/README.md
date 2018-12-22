@@ -8,6 +8,8 @@ Suprnova is a revolutionary new P2P (peer-to-peer) video encoding and delivery t
 
 ### Peer-to-Peer Without Fear
 
+![ara](images/ara.png "Ara")
+
 We've come a long way since the days of Napster. Suprnova is an entirely new approach to video transcoding, promoting methodologies for distribution and peer connectivity that were first introduced by BitTorrent and other peer-to-peer technologies. Rather than contributing to the piracy problems that plague the media industry, Suprnova's use of P2P provides a brand new, legitimate and legal framework for participating in the encoding and distribution of your media. And unlike BitTorrent,
 Suprnova users have a very strong incentive to share their resources with the rest of the pool, since this is what guarantees receipt of the content at the end of the process.
 
