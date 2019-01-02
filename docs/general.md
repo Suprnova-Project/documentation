@@ -1,5 +1,7 @@
 # Background
 
+!> The Suprnova application suite is currently in public beta, and comes with no warranty. We strongly encourage caution when trying out Suprnova, as it has not reached `1.0.0` yet.
+
 ## Architecture
 
 The Suprnova application framework consists of two main components:

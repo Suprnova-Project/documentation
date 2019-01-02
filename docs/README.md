@@ -1,32 +1,45 @@
-# Suprnova Documentation
+<!--# Suprnova Documentation -->
 
-![suprnova](http://lims.littlstar.com/streamData/splash.png "Suprnova Logo")
+<!-- ![suprnova](http://lims.littlstar.com/streamData/splash.png "Suprnova Logo") -->
+![suprnova](images/splash.png "Suprnova Logo")
 
-Suprnova is a revolutionary new P2P (peer-to-peer) video encoding and delivery tool for content creators. It allows content creators to invite their fans to directly participate in the transcoding of new content. This is achieved by segmenting videos into tiny chunks of frames, which then get distributed to all participants in the Suprnova encoding pool to be processed. In exchange for this participation, users are rewarded by being the first to receive access to the new content.
+Suprnova is a revolutionary new P2P (peer-to-peer) video encoding and delivery tool for content creators, powered by [Ara](https://ara.one/). It allows content creators to invite their fans to directly participate in the transcoding of new content. This is achieved by segmenting videos into tiny chunks of frames, which then get distributed to all participants in the Suprnova encoding pool to be processed. In exchange for this participation, users are rewarded by being the first to receive access to the new content.
 
 ## Features
 
-### Peer-to-Peer Without Fear
+### Intel Hardware Acceleration {docsify-ignore}
 
-We've come a long way since the days of Napster. Suprnova is an entirely new approach to video transcoding, promoting methodologies for distribution and peer connectivity that were first introduced by BitTorrent and other peer-to-peer technologies. Rather than contributing to the piracy problems that plague the media industry, Suprnova's use of P2P provides a brand new, legitimate and legal framework for participating in the encoding and distribution of your media. And unlike BitTorrent,
-Suprnova users have a very strong incentive to share their resources with the rest of the pool, since this is what guarantees receipt of the content at the end of the process.
-
-### Intel Hardware Acceleration
-
-![intel](images/mediasdk.png "Intel Media SDK")
+<!-- ![intel](images/mediasdk.png "Intel Media SDK") --> 
 
 In partnership with Intel, we are proud to offer Suprnova users a highly optimized encoding workflow, provided by Intel's Media SDK toolkit. It takes advantage of hardware instructions on your Intel i3, i5, i7, or i9 processor, which have been designed precisely for the purpose of accelerating transcodes. As a result, Suprnova pools encode video much more efficiently than other modern encoding workflows, and offer performance competitive with modern GPU pipelines - but at a fraction of
 the cost!
 
-### Double End-to-End Encryption
+### Peer-to-Peer Wthout Fear {docsify-ignore}
+
+<!-- ![ara](images/ara.png "Ara") --> 
+
+We've come a long way since the days of Napster. Suprnova is an entirely new approach to video transcoding, promoting the distribution and connectivity models introduced by BitTorrent. However, rather than contributing to the piracy problems that plague the media industry, Suprnova's use of P2P provides a brand new, legitimate and legal framework for participating in the encoding and distribution of your media. And unlike BitTorrent,
+Suprnova users have a very strong incentive to share their resources with the rest of the pool, since this is what guarantees receipt of the content at the end of the process.
+
+
+
+###  Littlstar RSS Feeds {docsify-ignore}
+
+<!-- ![rss](images/rss.png "RSS Feed") -->
+
+When you are a member of a Suprnova Pool, you have access to the Pool's RSS feed, so that you can track and serve up content you helped encode right from a local webserver. Go to [my.littlstar.com](https://my.littlstar.com) to embed this RSS feed into your Littlstar app on Playstation 4. That way, your encoded content will always be waiting for you, accessible right from your couch and without *any* loading, buffering, or slow-downs!
+
+### Double End-to-End Encryption {docsify-ignore}
+
+<!-- ![e2e](images/e2e.png "End to End Squared") --> 
 
 Suprnova utilizes the same handshake protocol as the secure chat app, Signal, and implements stream encryption via libsodium's `secretstream`. It further encrypts each socket connection via the `blake2b` encryption algorithm, providing users with peace of mind that their valuable video assets will remain in the proper hands.
 
-### supr:// Protocol Support for UWP
+### supr:// Protocol for UWP {docsify-ignore}
 
 Suprnova GUI generates a simple web address for your Suprnova Pool, which Windows 10 users can click to immediately join and begin working on your content! No more sharing of secret keys and passwords over insecure connections like email. Simply click the `supr://` URL and start participating!
 
-## Use Cases
+## Use Cases {docsify-ignore-all}
 
 Suprnova's uses as a video encoder tool are numerous and broad, introducing entirely new possibilities for networked video processing and interaction. A few examples are detailed below.
 
