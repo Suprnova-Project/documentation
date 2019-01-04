@@ -6,9 +6,9 @@
 
 The Suprnova application framework consists of two main components:
 
-1) [Suprnova CLI](supr.md) - The `supr` command line application, which handles the background tasks essential to managing and working in Suprnova Transcoding Pools.
+**1) Suprnova CLI** - The `supr` command line application, which handles the background tasks essential to managing and working in Suprnova Transcoding Pools.
 
-2) [Suprnova GUI](gui.md) - The Suprnova GUI interface for UWP, which enables easy management and execution of `supr` tasks. This application provides a user-friendly, highly-integrated Suprnova experience, and is strongly recommended to all users of Windows 10.
+**2) [Suprnova GUI](gui.md)** - The Suprnova GUI interface for UWP, which enables easy management and execution of `supr` tasks. This application provides a user-friendly, highly-integrated Suprnova experience, and is strongly recommended to all users of Windows 10.
 
 ## Getting Started
 
@@ -28,9 +28,9 @@ The `supr` CLI can be used to perform all necessary tasks, however, without the 
 
 Suprnova provides two user workflows:
 
-1) [**Pool Host**](/gui?id=host-view) - Setup a new Suprnova Transcoding Pool on the host system, enabling other users to connect to the Pool and assist in transcoding your video content.
+**1) [Pool Host](/gui?id=host-view)** - Setup a new Suprnova Transcoding Pool on the host system, enabling other users to connect to the Pool and assist in transcoding your video content.
 
-2) **Pool Participant** - Join another individual's Suprnova Transcoding Pool, and assist the **Pool Host** in transcoding the source video content.
+**2) Pool Participant** - Join another individual's Suprnova Transcoding Pool, and assist the **Pool Host** in transcoding the source video content.
 
 ### Pool Host
 
