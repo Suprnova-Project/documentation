@@ -33,7 +33,7 @@ When you are a member of a Suprnova Pool, you have access to the Pool's RSS feed
 
 <!-- ![e2e](images/e2e.png "End to End Squared") --> 
 
-Suprnova utilizes the same handshake protocol as the secure chat app, Signal, and implements stream encryption via libsodium's `secretstream`. It further encrypts each socket connection via the `blake2b` encryption algorithm, providing users with peace of mind that their valuable video assets will remain in the proper hands.
+Suprnova utilizes `noise-protocol`, [a sophisticated, modern, and open cryptography protocol](https://noiseprotocol.org/noise.html), to establish and persist Pool connections. Under the hood, we also leverage libsodium's `secretstream` and the `blake2b` encryption algorithm to lock down each socket connection made on the Pool. This combined approach makes Suprnova one of the safest video processing platforms on the market today.
 
 ### supr:// Protocol for UWP {docsify-ignore}
 
