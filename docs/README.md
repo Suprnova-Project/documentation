@@ -14,7 +14,7 @@ Suprnova is a revolutionary new P2P (peer-to-peer) video encoding and delivery t
 In partnership with Intel, we are proud to offer Suprnova users a highly optimized encoding workflow, provided by Intel's Media SDK toolkit. It takes advantage of hardware instructions on your Intel i3, i5, i7, or i9 processor, which have been designed precisely for the purpose of accelerating transcodes. As a result, Suprnova pools encode video much more efficiently than other modern encoding workflows, and offer performance competitive with modern GPU pipelines - but at a fraction of
 the cost!
 
-### Peer-to-Peer Wthout Fear {docsify-ignore}
+### Peer-to-Peer Without Fear {docsify-ignore}
 
 <!-- ![ara](images/ara.png "Ara") --> 
 
