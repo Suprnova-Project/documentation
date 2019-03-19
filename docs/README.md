@@ -45,9 +45,9 @@ Suprnova GUI generates a simple web address for your Suprnova Pool, which Window
 
 Suprnova's uses as a video encoder tool are numerous and broad, introducing entirely new possibilities for networked video processing and interaction. A few examples are detailed below.
 
-### Sports Betting Pools
+<!-- ### Sports Betting Pools
 
-Suprnova was built to foster strong and committed communities, joined together by a common content interest. This allows ambitious media firms a whole new way to target and engage their fans, presenting exciting monetization opportunities, such as sports betting. Sports networks are facing the monumental challenge of migrating their broadcasting and delivery services to OTW, and fans have high quality and low latency expectations. Suprnova provides a safe, secure, and reliable peer-to-peer network through which fans can conduct legal gambling activities, making it easy to comply with all local and federal gambling regulations. The revenues generated from these activities deliver a higher margin per broadcast, while also reducing the streaming footprint!
+Suprnova was built to foster strong and committed communities, joined together by a common content interest. This allows ambitious media firms a whole new way to target and engage their fans, presenting exciting monetization opportunities, such as sports betting. Sports networks are facing the monumental challenge of migrating their broadcasting and delivery services to OTW, and fans have high quality and low latency expectations. Suprnova provides a safe, secure, and reliable peer-to-peer network through which fans can conduct legal gambling activities, making it easy to comply with all local and federal gambling regulations. The revenues generated from these activities deliver a higher margin per broadcast, while also reducing the streaming footprint! -->
 
 ### Premium Content Channels
 
